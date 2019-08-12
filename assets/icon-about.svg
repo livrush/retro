@@ -1,0 +1,34 @@
+<svg width="68px" height="65px" viewBox="0 0 68 65" version="1.1" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="About" transform="translate(2.000000, 2.000000)">
+      <path
+        d="M32,-1.10991626 L57.8863749,11.3563049 L64.2797815,39.3676495 L46.3658543,61.8310038 L17.6341457,61.8310038 L-0.279781536,39.3676495 L6.11362508,11.3563049 L32,-1.10991626 Z"
+        id="Polygon" stroke="#FFFFFF" stroke-width="2" fill="#555555" stroke-linejoin="round"></path>
+      <polygon id="Polygon-Copy" fill="#FFFFFF"
+        points="32 2 55.4549445 13.2953059 61.2478374 38.675628 45.0165122 59.029066 18.9834878 59.029066 2.75216263 38.675628 8.54505553 13.2953059">
+      </polygon>
+      <polygon id="Polygon-Copy-2" stroke="#555555" stroke-width="2"
+        transform="translate(32.000000, 32.000000) scale(1, -1) translate(-32.000000, -32.000000) "
+        points="32 5 53.10945 15.1657753 58.3230536 38.0080652 43.714861 56.3261594 20.285139 56.3261594 5.67694637 38.0080652 10.89055 15.1657753">
+      </polygon>
+      <polygon id="Polygon-Copy-3" stroke="#555555" stroke-width="2"
+        points="32 8 50.7639556 17.0362448 55.3982699 37.3405024 42.4132097 53.6232528 21.5867903 53.6232528 8.60173011 37.3405024 13.2360444 17.0362448">
+      </polygon>
+      <polygon id="Polygon-Copy-4" stroke="#555555" stroke-width="2"
+        transform="translate(32.000000, 32.000000) scale(1, -1) translate(-32.000000, -32.000000) "
+        points="32 11 48.4184611 18.9067142 52.4734862 36.6729396 41.1115585 50.9203462 22.8884415 50.9203462 11.5265138 36.6729396 15.5815389 18.9067142">
+      </polygon>
+      <polygon id="Polygon-Copy-5" stroke="#555555" stroke-width="2"
+        points="32 14 46.0729667 20.7771836 49.5487024 36.0053768 39.8099073 48.2174396 24.1900927 48.2174396 14.4512976 36.0053768 17.9270333 20.7771836">
+      </polygon>
+      <polygon id="Polygon-Copy-6" stroke="#555555" stroke-width="2"
+        transform="translate(32.000000, 32.000000) scale(1, -1) translate(-32.000000, -32.000000) "
+        points="32 17 43.7274722 22.647653 46.6239187 35.337814 38.5082561 45.514533 25.4917439 45.514533 17.3760813 35.337814 20.2725278 22.647653">
+      </polygon>
+      <polygon id="Polygon-Copy-7" stroke="#555555" stroke-width="2" fill="#FFFFFF"
+        points="32 20 41.3819778 24.5181224 43.6991349 34.6702512 37.2066049 42.8116264 26.7933951 42.8116264 20.3008651 34.6702512 22.6180222 24.5181224">
+      </polygon>
+    </g>
+  </g>
+</svg>
